@@ -78,15 +78,23 @@ hr{
 p{
   text-wrap: balance;
   font-style: oblique;
+  text-align: center;
+}
+
+#b{
+  font-weight: bold;
+  color: #c21ba7;
+  font-size: 1.4rem;
 }
 
 b{
   font-weight: bold;
-  color: #06f08ede;
-  font-size: large;
+  color: #65e2d4;
+  font-size: 1rem;
 }
 
 h2{
+  background-color: #011f0b;
   text-decoration: underline;
   text-align: left;
   justify-content: baseline;
@@ -94,7 +102,7 @@ h2{
 }
 
 nav{
-    text-align: right;
+  text-align: right;
   justify-content: baseline;
   align-items: baseline;
 }
@@ -121,6 +129,13 @@ span{
 }
 
 img{
-  gap: 0.5rem;
+  margin: 0.2rem;
+  padding: 0.2rem;
+  gap: 0.2rem;
   border: #97ee0b solid 0.1rem;
+}
+
+strong{
+  color: #069cf3;
+  font-weight: bold;
 }
