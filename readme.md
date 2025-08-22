@@ -1,1 +1,1 @@
-# gnu-linux-of-jct
+# Gnu-Linux-Jct

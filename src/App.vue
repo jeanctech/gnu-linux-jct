@@ -16,7 +16,7 @@
   </nav>
   <main>
     <hr>
-    <h2 id="start">./HISTORY.sh</h2>
+    <h2 id="start">./START.sh</h2>
     <hr>
     <p><b id="b">E</b>xplora el poder del código. Domina el sistema. En las profundidades de la terminal, donde
       las líneas <br> de comando cobran vida y el software libre rompe cadenas, nace este sitio
@@ -38,7 +38,8 @@
       comunidad hacker <br> lo fusionó con GNU. Nació GNU/Linux, un sistema indestructible, modificable
       y libre, donde tú tienes <br> el control.
     </p>
-    <p><span>(¿Listo para tomar el control? El link está esperando… �)</span><br><br><a id="p-link" href="./components/history.vue">👉
+    <p><span>(¿Listo para tomar el control? El link está esperando… �)</span><br><br><a id="p-link"
+        href="./components/history.vue">👉
         Ejecutar Aqui</a></p>
     <hr>
     <h2 id="blog">./BLOG.sh</h2>
@@ -76,10 +77,10 @@
       <p><strong>(Desliza → para el viaje visual…)</strong></p>
     </div>
     <div>
-      <img src="./assets/images/image-0.jpeg" />
-      <img src="./assets/images/image-1.jpeg" />
+      <img src="./assets/images/image_one.jpeg" />
+      <img src="./assets/images/image_two.jpeg" />
       <br>
-      <img src="./assets/images/image-2.jpeg" />
+      <img src="./assets/images/image-three.jpeg" />
       <p><span>¿Quieres ver más? </span><a id="p-link" href="http://">👉 Haz Click Aqui</a></p>
     </div>
     <hr>
@@ -99,7 +100,7 @@
       <hr>
       <p><b id="b">P</b>ara todos los que creen que sudo rm -rf / es una filosofía de vida.</p>
       <p><strong>make install</strong> - <span>exit # ¿O prefieres CTRL+D?</span></p>
-      <p><span>🚀 2025 - GNU-LINUX-OF-JCT.sh | Apache 2.0 o nada</span></p>
+      <p><span>🚀 2025 - GNU-LINUX-OF-JCT.sh | APACHE 2.0 o nada</span></p>
       <hr>
     </footer>
   </main>

@@ -19,19 +19,19 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-    font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
 }
 
-code{
+code {
   margin: 0.2rem;
   padding: 0.2rem;
-      font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
-    background-color: #022c12;
-    color: #e6d010;
+  background-color: #022c12;
+  color: #e6d010;
 }
 
 h1 {
@@ -55,7 +55,7 @@ h1 {
   text-align: center;
 }
 
-a{
+a {
   margin: 0.5rem;
   padding: 0.5rem;
   text-decoration: none;
@@ -65,35 +65,35 @@ a{
   border-bottom: 0rem;
 }
 
-a:hover{
+a:hover {
   background-color: #014719;
 }
 
-hr{
+hr {
   margin: 0.1rem;
   padding: 0.1rem;
   border: #659707 solid 0.1rem;
 }
 
-p{
+p {
   text-wrap: balance;
   font-style: oblique;
   text-align: center;
 }
 
-#b{
+#b {
   font-weight: bold;
   color: #c21ba7;
   font-size: 1.4rem;
 }
 
-b{
+b {
   font-weight: bold;
   color: #65e2d4;
   font-size: 1rem;
 }
 
-h2{
+h2 {
   background-color: #011f0b;
   text-decoration: underline;
   text-align: left;
@@ -101,13 +101,13 @@ h2{
   align-items: baseline;
 }
 
-nav{
+nav {
   text-align: right;
   justify-content: baseline;
   align-items: baseline;
 }
 
-#p-link{
+#p-link {
   margin: 0.5rem;
   padding: 0.5rem;
   text-decoration: none;
@@ -117,25 +117,25 @@ nav{
   border: #527c02 solid 0.1rem;
 }
 
-span{
+span {
   color: #74f709;
   background-color: #022b11;
   text-decoration: underline;
 }
 
-#p-link:hover{
+#p-link:hover {
   text-decoration: underline;
   background-color: #022c12;
 }
 
-img{
+img {
   margin: 0.2rem;
   padding: 0.2rem;
   gap: 0.2rem;
   border: #97ee0b solid 0.1rem;
 }
 
-strong{
+strong {
   color: #069cf3;
   font-weight: bold;
 }
